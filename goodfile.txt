@@ -1,0 +1,8 @@
+Good File
+Total = Total + Value;
+A1 += A3 += A4 ;
+;;;;
+
+; ; ; ;
+Var1 = 768 - Var2
+= X = 1
